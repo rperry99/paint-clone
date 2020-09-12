@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 
 * {
   box-sizing: border-box;
@@ -146,7 +146,6 @@ body {
 
 /* Canvas */
 canvas#canvas {
-  background-color: rgb(177, 177, 177);
   position: absolute;
   top: 50px;
   cursor: crosshair;
