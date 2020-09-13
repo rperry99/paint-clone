@@ -5,6 +5,6 @@ This is project 19 / 20.
 
 ## Live Project
 
-You can view a live version of the project [here]()
+You can view a live version of the project [here](https://rperry99.github.io/paint-clone/)
 
 ## Thoughts
