@@ -7,6 +7,8 @@ This is project 19 / 20.
 
 You can view a live version of the project [here](https://rperry99.github.io/paint-clone/)
 
+You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+
 ## Thoughts
 
 I had a lot of fun with this project. I know I made a paint clone a long time ago, but this one had some different features.
